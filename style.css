@@ -1,0 +1,7 @@
+.blok1, .blok2, .blok3, .blok4 {
+    width:200px;
+    height: 100px;
+    margin: 20px;
+    display: inline-block;
+   
+}
