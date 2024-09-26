@@ -5,3 +5,19 @@
     display: inline-block;
    
 }
+
+.blok1 {
+    background-color: red;
+}
+
+.blok2{
+    background-color: blue;
+}
+
+.blok3 {
+    background-color:green;
+}
+
+.blok4 {
+    background-color: yellow;
+}
