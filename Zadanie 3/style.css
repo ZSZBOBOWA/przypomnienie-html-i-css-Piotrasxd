@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    width: 100%;
+    height: 40px;
+    background-color: red;
+}
+    
+.lewy {
+    width: 30%;
+    float: left;
+    background-color: blue;
+    height: 450px;
+}
+
+.prawy {
+    width: 70%;
+    background-color: yellow;
+    float: right;
+    height: 450px;
+}
+
+.footer {
+    clear: both;
+    height: 50px;
+    display: flex;
+    background-color: green;
+
+}
