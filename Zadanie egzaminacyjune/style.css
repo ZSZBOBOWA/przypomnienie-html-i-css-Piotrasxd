@@ -1,0 +1,68 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Cambria;
+}
+
+nav {
+    width: 25%;
+    background-color: #E1BEE7;
+    height: 400px;
+    float: left;
+}
+
+header {
+    width: 75%;
+    background-color: #9C64A6;
+    height: 150px;
+    float: right;
+    font-size: 170%;
+    text-align: center;
+    color: white;
+    letter-spacing: 2px;
+}
+
+main {
+    width: 75%;
+    height: 580px;
+    float: right;
+    font-size: 170%;
+    text-align: center;
+    color: indigo;
+
+}
+
+aside {
+    width: 25%;
+    background-color: #E1BEE7;
+    height: 330px;
+    float: left;
+}
+
+footer {
+    clear: both;
+    width: 100%;
+    background-color: #9C64A6;
+    
+
+
+}
+
+.akapit {
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+   padding: 4px;
+   margin: 15px;
+}
+
+img:hover {
+    padding: 3px;
+    border: 1px dotted indigo;
+}
+
